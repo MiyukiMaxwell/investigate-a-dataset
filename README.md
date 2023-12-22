@@ -1,5 +1,5 @@
 Project Overview
-In this project, I analysed a dataset from [tmdb]<https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata> and then communicated my findings about it.
+In this project, I analysed a dataset from [tmdb](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata) and then communicated my findings about it.
 I used Python libraries NumPy and pandas to make my analysis easier.
 
 This project demonstrated my ability to:
